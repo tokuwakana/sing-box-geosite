@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ad.12306.cn",
+        "download.microsoft.com",
+        "gg.caixin.com",
+        "ntservicepack.microsoft.com",
+        "sdkapp.uve.weibo.com",
+        "wustat.windows.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "b.lnk0.com",
+        "dl.delivery.mp.microsoft.com",
+        "kuwo.cn",
+        "myunidays.uk",
+        "pinduoduo.com",
+        "ucweb.com",
+        "update.microsoft.com",
+        "windowsupdate.com",
+        "windowsupdate.microsoft.com",
+        "yangkeduo.com"
+      ]
+    }
+  ],
+  "version": 1
+}
