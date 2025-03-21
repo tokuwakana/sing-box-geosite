@@ -1,0 +1,81 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "91porn.com",
+        "api.ip.sb",
+        "api.ipify.org",
+        "haijiao.com",
+        "img.killcovid2021.com",
+        "lens.l.google.com",
+        "proxy-tutorials.dustinwin.top",
+        "sub.v1.mk",
+        "teacat.cloud",
+        "translate.googleapis.com",
+        "wallhaven.cc",
+        "wiki.metacubex.one",
+        "wiki.repcz.link",
+        "www.dljpt.xyz"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "1e100",
+        "chptdl",
+        "cloudflare",
+        "dytt8",
+        "githubusercontent",
+        "instagram",
+        "potato",
+        "railway",
+        "roblox",
+        "rsshub",
+        "singbox",
+        "vercel"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "104300.xyz",
+        "1dot1dot1dot1.cloudflare-dns.com",
+        "400808.xyz",
+        "861000.xyz",
+        "cdctel.com",
+        "cloudflare-dns.com",
+        "dns.google",
+        "dns.quad9.net",
+        "dns.umbrella.com",
+        "docker.com",
+        "doh.dns.sb",
+        "doh.opendns.com",
+        "dot.sb",
+        "doubanio.com",
+        "haiwaikan.com",
+        "hk-hkg.doh.sb",
+        "iz8qkg.com",
+        "kin6c1.com",
+        "missav.com",
+        "naifei.pro",
+        "qichiyu.com",
+        "rbxcdn.com",
+        "skk.moe",
+        "v82u1l.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "1.0.0.1/32",
+        "1.1.1.1/32",
+        "13.251.24.0/24",
+        "13.251.41.0/24",
+        "17.252.156.0/23",
+        "185.222.222.222/32",
+        "208.67.220.220/32",
+        "208.67.222.222/32",
+        "8.8.4.4/32",
+        "8.8.8.8/32"
+      ]
+    }
+  ],
+  "version": 2
+}

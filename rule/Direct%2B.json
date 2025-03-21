@@ -1,0 +1,47 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "gst.prod.dl.playstation.net",
+        "linux.do",
+        "mihomos.us.kg",
+        "ottsdk.itv.video"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "alice.ws",
+        "apple-dns.cn",
+        "archive.org",
+        "cloudstudio.work",
+        "cocopilot.org",
+        "coverartarchive.org",
+        "czzyvideo.com",
+        "follow.is",
+        "ghp.ci",
+        "gradio.live",
+        "icloud.com.cn",
+        "iqiyis.com",
+        "istoreos.com",
+        "kelee.one",
+        "mihomos.us.kg",
+        "musicbrainz.org",
+        "ngrok-free.app",
+        "ntp.org",
+        "oaifree.com",
+        "openrouter.ai",
+        "quickconnect.to",
+        "speedtest.cn",
+        "steamcontent.com",
+        "synology.com",
+        "vscode-cdn.net"
+      ]
+    },
+    {
+      "port": [
+        "123"
+      ]
+    }
+  ],
+  "version": 2
+}
