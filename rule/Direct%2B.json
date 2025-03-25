@@ -36,11 +36,6 @@
         "synology.com",
         "vscode-cdn.net"
       ]
-    },
-    {
-      "port": [
-        "123"
-      ]
     }
   ],
   "version": 2
