@@ -3,16 +3,18 @@
     {
       "domain": [
         "gst.prod.dl.playstation.net",
-        "linux.do",
-        "mihomos.us.kg",
-        "ottsdk.itv.video"
+        "ottsdk.itv.video",
+        "rss.owo.nz",
+        "rss.wudifeixue.com"
       ]
     },
     {
       "domain_suffix": [
+        "4820286.xyz",
         "alice.ws",
         "apple-dns.cn",
         "archive.org",
+        "chatwise.app",
         "cloudstudio.work",
         "cocopilot.org",
         "coverartarchive.org",
@@ -24,6 +26,7 @@
         "iqiyis.com",
         "istoreos.com",
         "kelee.one",
+        "linux.do",
         "mihomos.us.kg",
         "musicbrainz.org",
         "ngrok-free.app",
