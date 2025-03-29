@@ -4,8 +4,7 @@
       "domain": [
         "gst.prod.dl.playstation.net",
         "ottsdk.itv.video",
-        "rss.owo.nz",
-        "rss.wudifeixue.com"
+        "tempmail.plus"
       ]
     },
     {
@@ -19,7 +18,6 @@
         "cocopilot.org",
         "coverartarchive.org",
         "czzyvideo.com",
-        "follow.is",
         "ghp.ci",
         "gradio.live",
         "icloud.com.cn",
@@ -27,17 +25,15 @@
         "istoreos.com",
         "kelee.one",
         "linux.do",
-        "mihomos.us.kg",
         "musicbrainz.org",
         "ngrok-free.app",
         "ntp.org",
         "oaifree.com",
-        "openrouter.ai",
         "quickconnect.to",
         "speedtest.cn",
         "steamcontent.com",
         "synology.com",
-        "vscode-cdn.net"
+        "tempmail.plus"
       ]
     }
   ],
